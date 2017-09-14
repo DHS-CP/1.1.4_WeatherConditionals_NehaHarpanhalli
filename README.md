@@ -1,4 +1,4 @@
 # 1.1.4WeatherConditionals
 
-Class file created by nhrp777.
-AP CSA 2017.
+PROJECT NAME: 1.1.4. Weather Conditionals
+AUTHORS: NEHA HARPANHALLI
